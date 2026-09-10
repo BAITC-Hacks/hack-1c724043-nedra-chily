@@ -1,2 +1,2 @@
-# hack-1c724043-nedra-chily
-Hackathon team repository for Nedra Chily
+# hack-1c724043-Natus Repere
+Hackathon team repository for Natus Repere
